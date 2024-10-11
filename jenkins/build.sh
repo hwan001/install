@@ -1,0 +1,1 @@
+docker build . -t jenkins:2024 -f Dockerfile

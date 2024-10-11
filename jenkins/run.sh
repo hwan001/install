@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 -v /home/user/jenkins_home:/var/jenkins_home --restart unless-stopped jenkins:2024 
